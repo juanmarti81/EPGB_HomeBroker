@@ -1,0 +1,3 @@
+xlwings
+pyhomebroker
+pandas
